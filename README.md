@@ -104,3 +104,18 @@ fleets 1 --- n bookings
 fleets 1 --- n fleet_checkins
 
 bookings.fleet_id & shipments.fleet_id bersifat nullable agar fleksibel saat belum assign armada.
+
+
+Tampilan Management Armada:
+
+<img width="1365" height="675" alt="image" src="https://github.com/user-attachments/assets/06cdfaf5-71b1-46b0-bc02-724880faab76" />
+
+Tampilan Management Pengiriman:
+
+<img width="1361" height="634" alt="image" src="https://github.com/user-attachments/assets/d0ee1c20-a8c4-4680-b1b6-745a17f6d054" />
+
+Tampilan Booking:
+
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/3f35a304-21fc-4506-9634-faaf9931f83b" />
+
+
