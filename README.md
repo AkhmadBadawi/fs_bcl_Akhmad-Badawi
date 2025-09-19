@@ -1,4 +1,4 @@
-<img width="550" height="482" alt="image" src="https://github.com/user-attachments/assets/0b226faf-6635-4eb4-b2fd-8dc84725e312" />Persyaratan: 
+Persyaratan: 
 PHP 8.1+, Composer, MySQL, Node
 
 Cara instal:
