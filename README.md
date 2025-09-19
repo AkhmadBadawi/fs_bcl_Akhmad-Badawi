@@ -1,23 +1,23 @@
-Persyaratan: PHP 8.1+, Composer, MySQL, Node
+<img width="550" height="482" alt="image" src="https://github.com/user-attachments/assets/0b226faf-6635-4eb4-b2fd-8dc84725e312" />Persyaratan: 
+PHP 8.1+, Composer, MySQL, Node
 
 Cara instal:
+1. git clone <repo>
 
-git clone <repo>
+2. composer install
 
-composer install
+3. cp .env.example .env lalu atur DB
 
-cp .env.example .env lalu atur DB
+4. php artisan key:generate
 
-php artisan key:generate
+5. php artisan migrate --seed
 
-php artisan migrate --seed
-
-npm install && npm run dev (jika ada assets)
-
-php artisan serve
+6. php artisan serve
 
 
 Struktur Basis Data:
+<img width="550" height="482" alt="image" src="https://github.com/user-attachments/assets/40847013-1169-402a-9f0c-25d5af4fea2e" />
+
 1. Tabel fleets (Armada)
 
 Menyimpan data armada yang digunakan untuk pengiriman.
